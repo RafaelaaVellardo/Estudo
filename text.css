@@ -1,0 +1,142 @@
+p{
+    margin: 0;
+    font-family: Verdana;
+}
+.tahoma{
+    font-size: large;
+    font-family: Tahoma;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.html{
+    font-size: 20px;
+    font-weight: bold;
+}
+.beginner{
+    font-size: 18px;
+    color: gray;
+    margin-bottom: 20px;
+
+}
+.text{
+    font-size: 18px;
+    border-right: 2px;
+    width: 340px;
+    margin-bottom: 18px;
+}
+.started{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Verdana;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+.big{
+    font-family: arial;
+    font-size: large;
+    font-weight: bold;
+
+}
+.sales{
+    color:red;
+    font-family: arial;
+    margin-bottom: 40px;
+
+}
+div{
+    text-align: center;
+    font-family: Arial;
+    margin-top: 40px;
+}
+.shop{
+    font-weight: bold;
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+.see{
+    margin-bottom: 20px;
+}
+.learn{
+    color:blue;
+}
+.new{
+    margin-bottom: 10px;
+    font-size: small;
+    color: orange;
+}
+.mac{
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.super{
+    font-weight: bold;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+.from{
+    margin-bottom: 10px;
+}
+.buy{
+    background-color: rgb(107, 166, 255);
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+}
+.cinco{
+    text-align: left;
+    font-family: Arial;
+    margin-top: 40px;
+}
+.money{
+    
+    font-size: larger;
+    margin-bottom: 10px;
+}
+.usd{
+    font-size: small;
+    color: gray;
+    font-weight: normal;
+}
+.today{
+    color: green;
+    font-size: smaller;
+    margin-bottom: 10px;
+}
+.after{
+    color: gray;
+    font-size: smaller;
+    margin-bottom: 10px;
+}
+.per{
+    color: red;
+}
+.email{
+    text-align: left;
+    font-family: Arial;
+    margin-top: 40px;
+}
+.free{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.arroba{
+    color: gray;
+    font-weight: normal;
+}
+.as{
+    margin-bottom: 10px;
+    width: 570px;
+}
+.chp{
+    color: blue;
+}
