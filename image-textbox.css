@@ -1,0 +1,96 @@
+.um{
+    width: 200px;
+    border-radius: 10px;
+
+}
+.dois{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.tres{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 200px;
+}
+.sea{
+    height: 28px;
+    width: 250px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(211, 211, 211);
+}
+.goo{
+    height: 28px;
+    width: 400px;
+    border-radius: 14px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+    padding-left: 10px;
+}
+.morte{
+    margin-top: 40px;
+   
+    font-family: arial;
+    margin-left: 500px;
+    margin-bottom: 100PX;
+    margin-right: 625px;
+    border-style: none;
+    
+}
+.email,.by{
+    color: rgb(88, 88, 88);
+}
+.tex{
+    border-style: solid;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    border-width: 3px;
+    border-color: rgb(133, 132, 132);
+}
+.ag{
+    
+    padding-left: 148px;
+    padding-right: 148px;
+    font-size: 20px;
+    border-style: none;
+    background-color: darkblue;
+    color: white;
+    height: 55px;
+    border-radius: 40px;
+}
+.crazy{
+    
+    height: 100px;
+    
+}
+.gay{
+    width: 50px;
+    height:50px;
+    object-fit: cover;
+    border-radius: 200px;
+    margin-top: 2px;
+    vertical-align: middle;
+}
+.wut{
+    width: 300px;
+    height:50px;
+    border-style: none;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.tw{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 19px;
+    border-style: none;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
