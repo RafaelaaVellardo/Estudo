@@ -1,0 +1,138 @@
+.a{
+    width: 30px;
+    height: 30px;
+    display:inline-block;
+    background-color: red;
+}
+.b{
+    width: 30px;
+    height: 30px;
+    display:inline-block;
+    background-color: green;
+    border-radius: 60px;
+}
+.c{
+    border-style: solid;
+    width: 300px;
+    height: 100px;
+    border-width: 1px;
+    border-color: gray;
+}
+.cc,.yes{
+    margin-left: 20px;
+}
+.d{
+    width: 390px;
+    height: 120px;
+    background-color: rgb(27, 27, 27);
+}
+.dd{
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.ddd{
+    color: gray;
+    font-family: arial;
+    margin-left: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+}
+.crazy{
+    padding-top: 10px;
+    height: 60px;
+    width: 455px;
+    padding-left: 15px;
+    border-radius: 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.6);
+
+}
+.gay{
+    width: 50px;
+    height:50px;
+    object-fit: cover;
+    border-radius: 200px;
+    margin-top: 2px;
+    vertical-align: middle;
+    
+}
+.wut{
+    width: 300px;
+    height:50px;
+    border-style: none;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.tw{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 19px;
+    border-style: none;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 20px;
+}
+.ff{
+    width: 280px;
+    height: 300px;
+    object-fit: cover;
+}
+.fff{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.ffff{
+    font-family: arial;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: rgb(131, 131, 131);
+    margin-bottom: 0px;
+    display: inline-block;
+    padding-top: 10px;
+  
+}
+.fffff{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 120px;
+    height: 40px;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(32, 123, 241);
+    border: none;
+    border-radius: 4px;
+    display: block;
+}
+.f{
+    width: 280px;
+    height: 430px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.6);
+}
+.socorro{
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    border-radius: 60px;
+}
+.morte{
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 3px;
+    display: inline-block;
+
+}
